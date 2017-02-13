@@ -36,3 +36,8 @@ li a:hover {
   background-color: #0074d9;
   color: #fff;
 }
+
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+}
